@@ -1,0 +1,2122 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/6E6B272F/file6143.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3Dfile6143.htm>
+<link rel=3DFile-List href=3D"file6143.files/filelist.xml">
+</head>
+
+<body lang=3Dzh-CN style=3D'font-family:Calibri;font-size:11.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:13.9354in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.7034=
+in'>
+
+<p style=3D'margin:0in;font-size:10.0pt;color:#767676'><span style=3D'font-=
+family:
+Calibri'>2020</span><span style=3D'font-family:"Microsoft YaHei"'>年</span=
+><span
+style=3D'font-family:Calibri'>6</span><span style=3D'font-family:"Microsoft=
+ YaHei"'>月</span><span
+style=3D'font-family:Calibri'>10</span><span style=3D'font-family:"Microsof=
+t YaHei"'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+19:36</p>
+
+</div>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 cols=3D3 valign=3Dtop sty=
+le=3D'direction:
+ ltr;border-collapse:collapse;border-width:0pt;margin-top:.6118in;margin-le=
+ft:
+ 0in;width:13.9354in'>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:7.6041in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.8951in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:5.4354in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:3.8673in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td rowspan=3D2 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:7.6041in;height:69.1527in'>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:"Micr=
+osoft YaHei"'>设计模式有</span><span
+  style=3D'font-family:微软雅黑'>六个很重要的原则：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>单一职责原则，开闭原则，里氏替换原则，迪=
+米特法则，接口隔离原则，依赖倒置原则，这六个原则是=
+最为基础的原则，在实际设计中，并不局限于这几个原则=
+，但是遵循这六大设计原则基本上可以应对大多数变化，=
+因此我们在项目中应尽量采用这六大原则，适当时候可以=
+进行扩充，而且将这六大原则的首字母取下来就是</span><s=
+pan
+  lang=3Den-US>SOLID</span><span lang=3Dzh-CN>，因为里氏替换原则�=
+�迪米特法则首字母重复了，所以只取一个，就是稳定的�=
+�思，其中开闭原则可以说是所有原则的</span><span
+  lang=3Den-US>leader</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'
+  lang=3Den-US>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Dzh-CN>单一职责原则（</span><span style=3D'font-family:Calib=
+ri' lang=3Den-US>SRP</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>单一职责提出了一个编写程序�=
+��标准，用职责来衡量接口或类设计得是否优良，但是这�=
+��原则是一个比较受争议的原则，因为对每个类的职则是�=
+��难划分的，最大的问题就是职责没有一个量化的标准，�=
+��么叫做只有一个职责</span><span
+  lang=3Den-US>SRP</span><span lang=3Dzh-CN>的原话是，“</span><span =
+lang=3Den-US>There
+  should never be moree than one reason for a class to change</span><span
+  lang=3Dzh-CN>”</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>也就是说，应且仅有一个原因引起类的变化，=
+这点对于接口类来说还可以实现的，但对于一个实现类来=
+说，就需要多加考虑了，因为对于接口实现单一职责还是=
+比较容易，而且实现这个原则，会有很多好处，如类的复=
+杂性降低，每个接口实现什么职责都有清晰明确的定义，=
+其次，程序的可读性提高，复杂性降低，然后就是可维护=
+性提高，可读性提高，更易于维护，最后就是变更引起的=
+风险降低，也就是可能一个程序在设计好以后，后期会进=
+行优化，所以会对之前设计不好的地方重新进行变更，如=
+果单一职责做得好，一个接口修改只对相应的实现类有影=
+响，对其它接口无影响，对系统的扩展性、维护性都有非=
+常大的帮助</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>而对于接口的实现类来说，使用单一职责并不=
+会有很大的作用，一般情况下我们在设计一个实现类时，=
+并不会采用单一职责原则，这也是很茅盾的一个点，因为=
+如果实现类生搬硬套单一职责原则会引起类的剧增，因为=
+你一个类只能有一个原因引起你的变化，如果划分特别细=
+，那么一个接口下面的类的数量，可能是不可想像的，而=
+且对于原本一个类可以实现的功能，现在划分了二个类，=
+到最后还要利用别的方法将它们耦合在一起，这也是人为=
+增加了程序的复杂性，而且基于现实情况下，你必须考虑=
+项目成本、技术水平等一些复杂情况，造成实现类往往都=
+和单一职则相违背</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>但是并不等于说在实现类中使用单一职责原则=
+是不好的，如果你的项目是一个特别大的项目，而且后期=
+必然会有更多的更新和优化，那么使用单一职责是很适合=
+的，每个类的职责都很明确，每个函数的职责也非常明确=
+，这样后期开发起来，就会很快乐了，但还是对于实现类=
+还有函数（方法），来说使用单一职责原则是要根据实际=
+情况来选择的，不要人为制造麻烦</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>所以对于单一职责原则，推荐的是，接口类一=
+定要做到单一职责，而实现类的设计尽量做到只有一个原=
+因引起变化</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Dzh-CN>里氏替换原则（</span><span style=3D'font-family:Calib=
+ri' lang=3Den-US>LSP</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>它的定义是“</span><span lang=3Den-US>Functions that u=
+se pointers or
+  referecnces to base classes must be able to use objects of derived classes
+  without knowing it&quot;</span><span lang=3Dzh-CN>，意思是所有引�=
+�基类的地方必须能透明地使用其子类的对象</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:"Microsoft YaHei"'
+  lang=3Dzh-CN>也就是说</span><span style=3D'font-family:微软雅黑' =
+lang=3Dzh-CN>可以用子类对象替换父类对象，也就是子类不�=
+�要再依赖父类，意思是高层次的东西完全可以无差别取�=
+�低层次的东西，是一个对上的兼容性，对下则父类并不�=
+�替换子类，对下是不兼容的，采用里氏替换原则的目的�=
+�是增强程序的健壮性，版本升级时也可以保持非常好的�=
+�容性，即使增加子类，原有的子类还可以继续运行</span><=
+/p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>在使用里氏替换原则时，所有子类的前置条件=
+必须与父类中被覆写的方法和前置条件相同或者更宽松，=
+实际上就是说子类一定要包含其父类，子类中的所以函数=
+，都是比父类函数更大的，在可以使用父类的地方，将对=
+象换成子类的对象，依然可以使用，调用出父类的函数，=
+其实就是在子类函数没有覆写父类函数的情况下，只是重=
+载了，如果子类的前置条件没有父类大，那么在调用相同=
+函数下，传入一个小的参数，那么一定会调用子类的函数=
+，而不是父类的函数，这样就出问题了，因为我想调用的=
+是父类的函数，但因为父类的前置条件大，系统会自动调=
+用前置条件小的函数，所以就造成使用子类对象，但父类=
+函数不能调用的情况，所以里氏替换原则要求，子类的前=
+置条件与父类中被覆写（重载）的方法和前置条件相同或=
+者更宽松</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>并且如果是重写或实现父类的方法时输出结果=
+可以被缩小，不过其实也可以说是被放大，因为这里的缩=
+小是对于父类而言的，父类的类型变成子类的类型就是被=
+缩小了，也就是说里氏替换原则是支持协变的，对于一个=
+父类对象中的虚函数进行重写时，可以改变它的返回值，=
+但依然可以构成重写，但这个改变的返回值一定是由父类=
+类型变为子类类型，这是对于重写的里氏替换原则的要求=
+</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>在实践时，一般来说子类都是用来重写父类中=
+的虚函数的，所以尽量避免子类有自己的个性，也就是有=
+自己的函数和成员，因为一但有了自己的函数和成员，那=
+么就很难和父类调和了，但要是没有自己的个性，把子类=
+当成父类使用，对于子类来说委屈了点，但把子类当成一=
+个单独的职责来使用，那么会让代码间的耦合关系变得更=
+加复杂，所以还是要根据实际情况，尽量让子类少拥有自=
+己的个怍</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Dzh-CN>依赖倒置原则（</span><span style=3D'font-family:Calib=
+ri' lang=3Den-US>DIP</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>依赖倒置原则的定义是“</span><span lang=3Den-US>H=
+igh level modules should not
+  depend upon low level modules. Both should depend upon abstractions.
+  Abstractions should not depend upon details. DDetails should depend upon
+  abstractions.</span><span lang=3Dzh-CN>”，意思是高层模块不应�=
+��依赖低层模块，两者都应该依赖抽象的，抽象不应该依�=
+��细节，细节应该依赖抽象</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>低层模块是指，每一个逻辑的实现都是由逻辑=
+组成的，不可分割的原子逻辑就是低层模块，高层模块则=
+是指将这些低层模块再组装起来，形成的高层模块，抽象=
+的意思在我们编程中就是指接口，或抽象类，两都都是不=
+能直接被实例化的，细节就是实现类，实现接口或继承抽=
+象类而产生的类就是细节，它们都是可以被实例化的</span=
+></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>它在编程语言中的体现就是，模块之间的依赖=
+通过抽象发生，实现类之间不发生直接的依赖关系，其依=
+赖关系是通过接口或抽象类产生的，其次，接口或抽象类=
+不依赖于具体的实现类，而实现类却是依赖接口或抽象类=
+</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>采用依赖倒置原则可以减少类间的耦合性，提=
+高系统的稳定性，降低并行开发引起的风险，提高代码的=
+可读性和可维护性</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>减少耦合性，提高系统稳定性的原因是，类中=
+的耦合性减少了，相当于每个类都不会很依赖其它的实现=
+类，那么在使用时，就可通过统一的接口（抽象）进行调=
+用不同的方法，在修改程序时，也只是对其接口中的代码=
+进行修改，而原本使用这个接口的类，则不会受影响，让=
+系统更加稳定，降低并行开发引用的风险的原因是，在实=
+际开发程序的时间，往往不是由一个大佬将此项目从头盯=
+到尾，而是分成不同的模块，分组开发，如果不采用依赖=
+倒置原则，那么每个类之间的耦合性一定很高，当一个程=
+序员开发完他负责的项目模块后，就需要等待其它人完成=
+的模块，因为其它人负责的模块要直接在我这个类中使用=
+，实际上是说自己的实现类依赖于其它的实现类，然后才=
+能测试自己的，这时候就出现了并行开发的风险，但是如=
+果使用了依赖倒置原则，那么所以模块之间就减少了耦合=
+性，各个类之间没有直接相互依赖的关系，那么在写完自=
+己的模块（接口）后，就可以独立进行测试，增加了开发=
+效率，降低了并行开发引用的风险</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:微软雅黑' lang=3Den-US><span style=3D'mso-spacer=
+un:yes'>      
+  </span></span><span style=3D'font-family:微软雅黑' lang=3Dzh-CN>在�=
+�个程序中依赖关系是可以传递的，也就是说</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>A</span><span style=3D'fo=
+nt-family:微软雅黑'
+  lang=3Dzh-CN>对象依赖</span><span style=3D'font-family:微软雅黑' =
+lang=3Den-US>B</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>对象，</span><span sty=
+le=3D'font-family:微软雅黑'
+  lang=3Den-US>B</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>又依赖</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>C</span><span style=3D'fo=
+nt-family:微软雅黑'
+  lang=3Dzh-CN>，</span><span style=3D'font-family:微软雅黑' lang=3Den=
+-US>C</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>又依赖</span><span sty=
+le=3D'font-family:微软雅黑'
+  lang=3Den-US>D</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>，但有一点就是要做到只对抽象层产生依赖，那么就算�=
+��多层级的依赖关系，也不会有很大的问题，实际上就是�=
+��层模块不应该依赖低层模块，两者都应该依赖抽象，所�=
+��有依赖关系最终都可以通过抽象来获取多级的依赖结果�=
+��也就是说</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>A</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>依赖</span><span style=3D'font-family:Calibri' lang=3Den-U=
+S>B</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>，</span><span style=3D'=
+font-family:Calibri'
+  lang=3Den-US>B</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>依赖</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>C</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>，</span><span style=3D'font-family:Calibri' lang=3Den-US>C=
+</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>依赖</span><span style=
+=3D'font-family:Calibri'
+  lang=3Den-US>D</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>，如果</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>D</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>是抽象，那么</span><span style=3D'font-family:Calibri'=
+ lang=3Den-US>C</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>是依赖</span><span sty=
+le=3D'font-family:Calibri'
+  lang=3Den-US>D</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>的，那么就可以通过</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>D</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>来得到</span><span style=3D'font-family:Calibri' lang=3De=
+n-US>C</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>，因为</span><span sty=
+le=3D'font-family:Calibri'
+  lang=3Den-US>B</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>又是依赖</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>C</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>的，所以可以通过已经产生依赖关系的</span><s=
+pan style=3D'font-family:Calibri'
+  lang=3Den-US>D</span><span style=3D'font-family:微软雅黑' lang=3Dzh-C=
+N>来代替</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>C</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>生成</span><span style=3D'font-family:Calibri' lang=3Den-U=
+S>B</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>，所以到最后</span>=
+<span style=3D'font-family:
+  Calibri' lang=3Den-US>A</span><span style=3D'font-family:微软雅黑' la=
+ng=3Dzh-CN>可以直接通过抽象的</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>D</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>来获取最终的结果，而在实现方面，具体的实=
+现类得依赖抽象，而抽象则不会依赖实现类</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US><span style=3D'mso-spacer=
+un:yes'>      
+  </span></span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>在传递依赖对象时，注意这里所说的依赖对象=
+是指，具体每一个实现类需要什么对象，有三种方法，第=
+一种就是通过构造函数来传递，第二种就是专门设置一个=
+专门传递依赖对象的函数，第三种就是直接在接口中传递=
+依赖对象，不过这种方法就比较局限了，因为它已经将所=
+有实现类的依赖对象设置好了，实现类只是对这个对象的=
+实现方法不同</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>依赖倒置的本质就是通过抽象使用各个类或模=
+块的实现彼此独立，不互相影响，实现模块间的松耦合，=
+在实际使用中只要尽量遵守以下规则就可以了：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、每个类尽量都有接口或抽象类，或者抽象类=
+和接口两者都具备，这是依赖倒置原则的基本要求，接口=
+和</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>     </span></span><span style=3D'font-fam=
+ily:微软雅黑'
+  lang=3Dzh-CN>抽象类都是属于抽象的，有了抽象才可能依赖=
+倒置</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、在定义变量时的表面类型尽量是接口或者抽=
+象类，内部抽象类中是使用多态来改变成不同的类型的</s=
+pan></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、任何类都不应该从具体类派生</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、尽量不要重写基类的方法，这里的意思是这=
+个基类可能是抽象类，而且这个方法已经实现了，子类尽=
+量不要重写，类间依赖的是抽象，重写了抽象方法，对依=
+赖的稳写性会产生一定影响</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>5</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、结合着里氏替换原则使用，因为里氏替换原=
+则是，父类出现的地方子类就能出现，那么根据依赖倒置=
+原则，接口层负责定义</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>public</span><span style=
+=3D'font-family:
+  微软雅黑' lang=3Dzh-CN>属性和方法，并且声明与其他对象�=
+��依赖关系，抽象类负责公共构造部分的实现，实现类准�=
+��的实现业务逻辑，同时在适当的时候对父类进行细化</sp=
+an></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>这个原则叫做倒的置的原因是，正常情况下，=
+什么叫正置，正置就是指实实在在的类之间的依赖，在现=
+实中，如我要使用笔记本就是依赖笔记本，开奔驰车就是=
+依赖奔驰车，而在依赖倒置原则下，所有的东西，依赖的=
+都不在是实实在在的东西了，而是从现实中抽象出来的东=
+西，如我要使用笔记本，但我现在抽象出来的是树，通过=
+树我就可以调用具体的实现类来产生笔记本，依赖的不在=
+是具体的东西，而是抽象出来的东西，了就是接口</span></=
+p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>依赖倒置原则的优点在小型项目中很难体现出=
+来，因为完全可以不使用这个原则，直接就可以完成任务=
+，但对于一个大项目来说，它是有非常多的优点的，项目=
+越大，需求变化的概率就越大，通过采用依赖倒置原则设=
+计接口或抽象类对实现类进行约束，可以减少需求变化引=
+起的工作量的剧增，同时对于维护和扩展都非常有利</span=
+></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>我们在实际使用时，更需要的是判断当前情况=
+，到底是不是真正适合依赖倒置的原则，不要抓住一个原=
+则不放，照搬硬套，每一个原则的优点都是有限度的，它=
+们只是一个参考的标准</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'
+  lang=3Den-US>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Dzh-CN>接口隔离原则（</span><span style=3D'font-family:Calib=
+ri' lang=3Den-US>ISP</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>什么是接口，在编程中接口有两种形式，一种=
+是实例接口，也就是我们实例化出的对象，根据这个对象=
+，我们可以调用它提供的函数，还有一种是类接口，也就=
+是接口类，它是提供给其它类进行具体的实现，而它则可=
+以利用多态的性质，来使用这些实现了的函数，这种类就=
+是提供了一些特定的功能，对外是封装了实现过程，就相=
+当于只是知道它有这些功能可以使用</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>对于隔离，有两种定义，第一种是“</span><span=
+ lang=3Den-US>Clients<span
+  style=3D'mso-spacerun:yes'>  </span>should not be forced to depend upon
+  interfaces that they don't use</span><span lang=3Dzh-CN>”客户端不�=
+�该依赖它不需要的接口，第二种是，“</span><span
+  lang=3Den-US>The dependency of one class to another one should depend on =
+the
+  smallest possible interface&quot;</span><span lang=3Dzh-CN>，类间的�=
+�赖关系应该建立在最小的接口上</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>第一种定义的含义是，客户端需要什么接口就=
+提供什么接口，把不需要的接口剔除掉，那就需要对接口=
+进行细化，保证其纯洁性，当接口细化后，自然有些接口=
+就分到了新的接口中，而它们的原型就不应该再存在了，=
+因为它们的原型可能非常的臃肿，也是让接口的比较单一=
+，而客户端在依赖时，只依赖它想依赖的接口就可以了（=
+这时的这个依赖的接口比较纯洁，也就是基本没有客户端=
+不想使用的功能），另外还指在一个具体的类中，要将客=
+户端不需要的函数给屏蔽掉，也就是尽可能的将一些函数=
+私有化只提供需要的函数给客户端</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>第二种定义的含义是，它要求是最小的接口，=
+也是要求接口细化，接口纯洁，其实第二种定义和第一种=
+定义是一个意思，只不过第二种定义更偏向让接口细化，=
+也就是接口不能臃肿庞大，一个接口的功能，最好是比较=
+单一，然后客户端在拿到接口的时候，也就更加明确了，=
+并且接口中的方法要尽可能的少，要注意的是这里的接口=
+的功能比较单一和单一职责是不同，单一职责是对每个接=
+口或类的职责划分，而这里的接口的功能，则是指这些接=
+口的功能比较单一，它相比较单一职责来说，更加小更加=
+细致，另外类间的依赖关系，是指要依赖其它类来实现自=
+己的类时，可以直接使用它们的接口来完成，也就是依赖=
+最小接口（功能比较单一）</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>接口隔离原则还要求，尽量使用多个专门的接=
+口，就是指提供给每个模块的都应该是单一的接口，提供=
+给几个模块就应该有几个接口，也就是接口要细化，提供=
+给客户端使用的接口要明确，不要臃肿</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Dzh-CN>接口隔离原则是对接口进行规范和约束，它包=
+含以下</span><span lang=3Den-US>4</span><span
+  lang=3Dzh-CN>层含义：</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、接口要尽量小，这是接口隔离的核心原则，=
+不出现臃肿的接口，但是不能无休止的小下去，它必须满=
+足单一职责原则，也就是对于定义好的单一职责的接口，=
+它不会继续对这个接口进行划分</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、接口要高内聚，高内聚就是指提高接口、类=
+、模块的处理能力，减少对外的交互，也就是在一个类中=
+尽可能少有</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>public</span><span style=
+=3D'font-family:
+  微软雅黑' lang=3Dzh-CN>函数，接口是对外承诺的，承诺的�=
+��少对系统的开发越有利，变更风险也就越少，同时也有�=
+��于降低成本</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、定制服务，一个系统或系统内模块之间必然=
+会有耦合，有耦合就有相互访问的接口，而在实际中，我=
+们可以根据访问者的不同，提供定制服务，定制服务就是=
+单独为一个个体提供优良的服务，采用定制服务就必然有=
+一个要求，只提供访问者需要的方法，其实就是指因为模=
+块相互耦合是不可避免的，我们可以根据实际在访问时的=
+个体不同，将这些耦合了的模块，再进行分离，形成一个=
+个接口，这些不同的接口对应者不同的个体来进行使用</s=
+pan></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、接口设计是有限度的，接口设计的越小，系=
+统越灵活，但是灵活的同时也带来了结构的复杂化，开发=
+难度的增加，可维护性降低，所以在实际设计接口时，还=
+是要有一个度</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-family:微软雅黑;font-si=
+ze:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>在实践中可以根据以下几个规则来衡量：</span=
+></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、一个接口只服务于一个子模块或业务逻辑</s=
+pan></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、通过业务逻辑压缩接口中的</span><span style=3D=
+'font-family:Calibri' lang=3Den-US>public</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>函数</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、已经被污染的接口，尽量去修改，若变更的=
+风险较大，则采用适配器模式进行转化处理</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、了解环境，拒绝盲从，也就是根据环境去设=
+计接口</span></p>
+  <p style=3D'margin:0in;margin-left:.75in;font-family:微软雅黑;font-si=
+ze:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Den-US><span style=3D'mso-spacerun:yes'> </span></span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>迪米特法原则（</sp=
+an><span style=3D'font-family:
+  Calibri' lang=3Den-US>L</span><span style=3D'font-family:微软雅黑' la=
+ng=3Den-US>o</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>D</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>迪米特法原则，也称为最少知识原则，它是指=
+一个对象应该对其他对象有最少的了解，一个类应该对自=
+己需要耦合或调用的类知道得最少，被耦合或被调用的类=
+的内部是如何复杂都和我没有关系，那是你的事情，我就=
+知道你提供了这么多的</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>public</span><span style=
+=3D'font-family:
+  微软雅黑' lang=3Dzh-CN>函数，我就调用这么多，其它都和�=
+��没关系</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>迪米特法则对类的低耦合提出了明确的要求，=
+它包含以下</span><span lang=3Den-US>4</span><span
+  lang=3Dzh-CN>层含义：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、只和朋友交流：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US><span
+  style=3D'mso-spacerun:yes'>       </span></span><span style=3D'font=
+-family:微软雅黑'
+  lang=3Dzh-CN>它有一句英文解释是，</span><span style=3D'font-fam=
+ily:Calibri' lang=3Den-US>&quot;Only
+  talk to your immediate friends&quot;</span><span style=3D'font-family:微=
+软雅黑'
+  lang=3Dzh-CN>，就是只和直接的朋友交流，直接朋友是指，=
+每个对象都必然会与其它对象有耦合的关系，两个对象之=
+间的耦合就成为朋友关系，在编程中，朋友对象实际指的=
+是，在类中，每个方法的输入和输出参数，如果是对象，=
+那么它们就是此类的朋友，并且如果如果此类中的成员变=
+量其它类实例化出的对象，那么这个成员也是此类的朋友=
+，除了述之外，其它的对象，都不是此类的朋友，如果中=
+是在一个方法中使用了其它类来生成某些对象，这个对象=
+并不是输入输出参数，更不是成员变量，而迪米特法则要=
+求一个类尽量和自己的直接朋友交流，不要和其它对象进=
+行交流，也就是说本着最少知识的原则，如果一个对象既=
+不是输入、输出参数，也不是此类的成员变量，那么在这=
+个类的方法中，尽量不要使用这些对象，不然后容易造成=
+类的高耦合性，使用其不好维护</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>当然这里所说的不要使用非朋友的类，指的是=
+自定义的类，而各编程语言中自主提供的类，则是可以使=
+用的，并且尽量和自己的朋友交流，不要出现，</span><span
+  lang=3Den-US>getA().getB().getC().getD()</span><span lang=3Dzh-CN>这种�=
+��况</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、朋友间也是有距离的：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>它实际上是指每个类只和朋友交流，但与朋友=
+之间的关系不能太密切了，一但太密切，那么它们之间的=
+耦合关系就变得异常牢固，那么也会引起各种麻烦，所以=
+在定义类的时候，一个类的公开</span><span
+  lang=3Den-US>public</span><span lang=3Dzh-CN>方法越少越好，因为�=
+��和朋友交流的时候，只使用朋友提供的</span><span
+  lang=3Den-US>public</span><span lang=3Dzh-CN>方法，而其它的不关�=
+��，也不使用，这样它们的耦合关系只存在于</span><span
+  lang=3Den-US>public</span><span lang=3Dzh-CN>方法了，而如果</span>=
+<span lang=3Den-US>public</span><span
+  lang=3Dzh-CN>方法过多，那么在修改时波及的面也就越大，=
+变更引起的风险扩散就越大，迪米特法则要求类“羞涩”=
+一点，尽量不要对外公布太多的</span><span
+  lang=3Den-US>public</span><span lang=3Dzh-CN>方法和非静态的</span>=
+<span lang=3Den-US>public</span><span
+  lang=3Dzh-CN>变量</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、是自己的就是自己的</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>它是指有时，一个方法放在本类中可以，放在=
+其它类中也没有错，那么衡量这种关系的原则就是，如果=
+一个方法放在本类中，既不增加类间关系，也对本类不产=
+生负面影响，那就放置在本类中</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、谨慎使用</span><span style=3D'font-family:Calibri' la=
+ng=3Den-US>Serializable</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US><span style=3D'mso-spacerun:ye=
+s'>      
+  </span></span><span style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>=
+也就是在使用了</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>S</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Den-US>erializable</span><span style=3D'font-family:"Microsoft YaHe=
+i"'
+  lang=3Dzh-CN>后，在传输对象，需要经过这个方法，对这个=
+对象进行序列化，如果不序列化就会问题，但一段时间后=
+，在传输对象时不需要序列化了，但这个</span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US>Serializable</span><=
+span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>仍在使用，就�=
+�导致错误，不过这种情况一般很少出现，不过还是本着�=
+�少知识的原则，尽量不要使用</span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US>Serializable</span><=
+/p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt' lang=3Den-US>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>迪米特法则的核心观念就是类�=
+��解耦，弱耦合，只有弱耦合了以后，类的利用率才可以�=
+��高，不过此法则导致的结果就是产生了大量的中转或跳�=
+��类，导致系统的复杂性提高，同时也为维护带来了难度�=
+��这个法则在实际应用时和其它原则相同，需要反复权衡<=
+/span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'
+  lang=3Den-US>&nbsp;</p>
+  <p style=3D'margin:0in;font-size:11.0pt'><span style=3D'font-family:微�=
+�雅黑'
+  lang=3Dzh-CN>开闭原则（</span><span style=3D'font-family:Calibri' la=
+ng=3Den-US>0CP</span><span
+  style=3D'font-family:微软雅黑' lang=3Dzh-CN>）：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>它有一个官方的定义是“</span><span lang=3Den-US>S=
+oftware entities like classes,
+  modules and functions should be open for extension but closed for
+  modifications&quot;</span><span lang=3Dzh-CN>，一个软件实体如类�=
+��模块和函数应该对扩展开放</span><span
+  lang=3Den-US> </span><span lang=3Dzh-CN>，对修改关闭</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>开闭原则的定义告诉我们，软件实体应该驿扩=
+展开放，对修改关闭，就是说一下软件实体应该通过扩展=
+来实现变化，而不是通过修改已有的代码来实现变化，软=
+件的实体是指，第一，项目或软件产品中按照一定的逻辑=
+规则划分的模块，第二，抽象和类，第三，方法也可以说=
+是函数</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>一个软件实体，只要在生命期内，都会发生变=
+化，因为外界对它的需要一定会变化，既然变化是一个既=
+定的事实，那么就应该在设计时尽量适应这些变化，以提=
+高项目的稳定性和灵活性，而开闭原则告诉我们应尽量通=
+过扩展软件实体的行为实现变化，而还是通过修改已有的=
+代码来完成变化，所以开闭原则是为软件实体的未来事件=
+而制定对现行开发设计进行约束的一个原则</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>开闭原则对扩展开放，对修改关闭，并不意味=
+着不做任何修改，低层模块的变更，必然要有高层模块进=
+行耦合，否则就是一个孤立无意义的代码片段，所以在进=
+行变化时，可以归纳为以下三种类型：</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、逻辑变化：只变化一个逻辑，而不波及其他=
+模块，如原有的一个算法是</span><span style=3D'font-family:
+  Calibri' lang=3Den-US>a*b+c</span><span style=3D'font-family:微软雅黑=
+' lang=3Dzh-CN>，现在要修改为</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>a*b*c</span><span style=3D'fon=
+t-family:
+  微软雅黑' lang=3Dzh-CN>，那么只需要在原有的方法中进行�=
+��辑的修改，而不需要用对外扩展的方法，使用这种方法�=
+��前提条件是所有依赖或关联类都按照相同的逻辑处理</sp=
+an></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、子模块变化：一个模块变化，会对其他的模=
+块产生影响，特别是一个低层次的模块变化必然引起高层=
+模块的变化，因此在通过扩展完成变化时，扩展模块的高=
+层模块修改是必然的</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、可见视图变化：也就是前端的一个可视化的=
+界面的变化，这些可视化的变化，一般都会引起连锁反应=
+，在设计之出应该更加仔细的考虑，以适应以后可能出现=
+的变化</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>为什么要使用开闭原则，开闭原则非常著名，=
+只要是面向对向编程的，不管是什么语言，在开发时都会=
+提及开闭原则，它是最基础的一个原则，其它五个原则，=
+都是开闭原则的具体形态，也就是说其它五个原则就是指=
+导设计的工具和方法，而开闭原则才是最主要的，开闭原=
+则这么重要的原因，从以下几个方面讲述</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、开闭原则对测试的影响：所有已经投产的代=
+码都是有意义的，并且受系统规则的约束，这样的代码是=
+经过各种测试过程才出现的，不仅保证逻辑是正确的，还=
+要保证苛刻条件下不产生有毒的代码，所以这些代码都是=
+通过非常多的测试出来的，如果现在改变了需求，在更改=
+代码是，就要考虑一个是否要更改之前已经测试好的代码=
+了，如果更改了之前的代码来实现现在的需求，那么之前=
+已经测试完毕的代码就得重新测试了，如果前期代码特别=
+麻烦，这将是一个相当麻烦的测试过程，之前所</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US> </span><span style=3D'fo=
+nt-family:微软雅黑'
+  lang=3Dzh-CN>的测试方法都需要重构，而且还要全部都重新=
+测试一遍，真正的是重构火葬场，所以开闭原则，要求尽=
+量通过扩展来实现业务逻辑的变化，而不是修改</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、开闭原则可以提高复用：在面向对象的设计=
+中，所有的逻辑都是从原子逻辑组合而来的，而不是一个=
+类中独立实现一个业务逻辑，只有这样的代码才可以复用=
+，粒度越小，被复用的可能性就越大，复用的原因是减少=
+代码量，避免相同的逻辑分散在多个角落，避免是后的维=
+护人员为了修改一个小缺陷，或增加新功能而要在整个项=
+目中到处查找相关代码</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、开闭原则可以提高可维护性：因为开闭原则=
+要求尽量扩展一个类，而不是修改，在进行维护时，工作=
+人员只需要对新扩展的类进行维护，而之前已经维护好的=
+代码，则就不需要维护了</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、面向对象开发的要求：因为万物皆对象，我=
+们在面向对象编程时，需要把所有的事物都抽象成对象，=
+然后针对对象进行操作，但万物皆会变化，所以在设计之=
+出就应该考虑到所有可能变化的因素，然后留下接口，等=
+待以后使用</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>       </span></span>=
+<span
+  lang=3Dzh-CN>开闭原则是一个非常虚的原则，其它五个原则=
+是对开闭原则的具体解释，那么在使用开闭原则时，应该=
+如何使用</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、抽象约束：抽象是对一组事物的通用描述，=
+没有具体的实现，也就是表示它可以有非常多的可能性，=
+以跟随需求的变化而变化，因此通过接口或抽象类可以约=
+束一组可能变化的行为，并且能够实现对扩展开放，抽象=
+约束包含三层含义，第一，通过接口或抽象类约束扩展，=
+对扩展进行边界限定，不允许出现在接口或抽象类中不存=
+在的</span><span
+  style=3D'font-family:微软雅黑' lang=3Den-US>public</span><span style=
+=3D'font-family:
+  微软雅黑' lang=3Dzh-CN>方法；第二，参数类型、引用对象�=
+��量使用接口或抽象类，而不是实现类；第三，抽象层尽�=
+��保持稳定，一旦确定即不允许修改，因为抽象层是最底�=
+��的，如果要修改抽象层，那么它上面的层都需要被修改�=
+��那么就会出现很大的问题，其它也是同样，尽量依赖抽�=
+��，其实也是依赖倒置的一种体现</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、使用元数据控制模块行为：尽量使用元数据=
+来控制程序的行为，减少重复开发，元数据实际上就是指=
+用来描述环境和数据的数据，举个例子，你创建了一个文=
+件，那么文件中的数据就是真正的数据，而对于这个文件=
+中数据的特征，及其约束的数据则是元数据，通俗地说就=
+是配置参数，参数可以从文件中获得，也可以从数据库中=
+获得，其实就是按照之前已经设置好的规定格式来控制程=
+序的行为，这样在维护时，就可以知道这些代码都是按照=
+一定的格式编写的，那么在进行检查时，也会方便很多，=
+当元数据足够多时，也就基本可以包含开发所使用的全部=
+规则，当再开发另一个文件或程序时，可以套用之前的元=
+数据，减少重复开发，也可以对其元数据进行扩展</span></=
+p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、制定项目章程：在一个团队中，建立项目章=
+程是非常重要的，因为章程中指定了所有人员必须遵守的=
+约定，对项目来说，约定优于配置，一个项目会产生非常=
+多的配置文件，一旦项目成员都熟悉这样的规则，比通过=
+接口或抽象类进行约束效率更高，而且扩展性一点也没有=
+减少</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:微软雅黑'
+  lang=3Dzh-CN>、封装变化：对变化的封装有两层含义，第一=
+，将相同的变化封装到一个接口或抽象类中，第二，将不=
+同的变化封装到不同的接口或抽象类中，不应该有两个不=
+同的变化出现在同一个接口或抽象类中；封装变化，也就=
+是受保护的变化，找出预计有变化或不稳定的点，我们为=
+这些变化点创建稳定的接口，准确地讲是封装可能发生的=
+变化，一旦预测到有变化，就可以进行封装，</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>23</span><span style=3D'font-f=
+amily:
+  微软雅黑' lang=3Dzh-CN>个设计模式都是从各个不同的角度�=
+��变化进行封装的</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:微软雅黑;font-size:11.0pt' lang=3D=
+en-US><span
+  style=3D'mso-spacerun:yes'>         </span></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.8951in;
+  height:3.8673in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:5.4354in;
+  height:3.8673in'>
+  <p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt' lang=3Den-US=
+>OOP:</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:微软雅黑' lang=3Den-US><span style=3D'mso-spacer=
+un:yes'>     
+  </span></span><span style=3D'font-family:微软雅黑' lang=3Dzh-CN>先�=
+�</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>OO</span><span style=3D'font-f=
+amily:
+  微软雅黑' lang=3Dzh-CN>思想，它是指面向对象的一种方法�=
+��也就是在处理问题时，将一个复杂的问题化分各个类型�=
+��问题，然后根据这些不同的类型我们做成不同对象，进�=
+��处理，就好像我们坐飞机，飞机就是一个对象，然后我�=
+��可以对这个对象做出一系列设计，包括处理方法都集中�=
+��里面，然后封装起来，一个对象单纯解决一个问题，然�=
+��多个对象综合起来就可以解决整个问题了，这样做的好�=
+��是模块化，一个对象只负责单一的问题，清楚明了，并�=
+��关于这个对象涉及的问题和处理的方法都可以在这个对�=
+��中找到方法，方便，最后就是这做好一个对象后就有了�=
+��层封装，我们只提供简单的使用方法，内部的实现和过�=
+��不需要知道，也是不可见的，也增加了保密性</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:微软雅黑;font-s=
+ize:11.0pt'><span
+  lang=3Den-US><span style=3D'mso-spacerun:yes'>     </span>OOP</span><=
+span
+  lang=3Dzh-CN>是指面向对象编程的一种方法，也就是我们在=
+处理问题时要将一个问题总结出很多单一的问题类型，然=
+后分对象进行处理，面向对象的特征首先就是有一层或多=
+层封装，其次就是继承的特性，再者就是多态，这些前面=
+都已经说过</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:65.2854in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.8951in;
+  height:65.2854in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:5.4354in;
+  height:65.2854in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:7.6041in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.7034=
+in'>
+
+<p style=3D'margin:0in;font-size:10.0pt;color:#767676'><span style=3D'font-=
+family:
+Calibri'>2019</span><span style=3D'font-family:"Microsoft YaHei"'>年</span=
+><span
+style=3D'font-family:Calibri'>9</span><span style=3D'font-family:"Microsoft=
+ YaHei"'>月</span><span
+style=3D'font-family:Calibri'>17</span><span style=3D'font-family:"Microsof=
+t YaHei"'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+20:25</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.6118in;margin-left:0in;width:7.6041=
+in'>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>单例模式比较官方的定义是“</s=
+pan><span lang=3Den-US>Ensure a
+class has only one instance, and provide a global point of access to it</sp=
+an><span
+lang=3Dzh-CN>”确保一个类只有一个实例，而且自行实例化�=
+�向整个系统提供这个实例</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>单例模式要求，一个类只能生成=
+一个对象，所有其它对象对它的依赖都是相同的，因为只=
+有一个对象，大家对它的脾气和习性都非常子解，建立健=
+壮稳固的关系，在实现时，对象产生是通过</span><span
+lang=3Den-US>new</span><span lang=3Dzh-CN>关键字完成的，但是如何=
+进行控制，方法就是通过构造函数，使用</span><span
+lang=3Den-US>new</span><span lang=3Dzh-CN>关键字创建对象时，都会=
+根据输入的参数调用相应的构造函数，如果我们把构造函=
+数设置为</span><span
+lang=3Den-US>private</span><span lang=3Dzh-CN>私有访问权限，那么�=
+�可以禁止外部创建对象了，另外</span><span
+lang=3Den-US>C++11</span><span lang=3Dzh-CN>中提出了</span><span lang=
+=3Den-US>delete</span><span
+lang=3Dzh-CN>关键字，所以我们也可以把构造函数写成</span><=
+span lang=3Den-US>delete</span><span
+lang=3Dzh-CN>函数，禁止外界访问</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>然后将拷贝构造，赋值赋值运算=
+符重载函数，也私化，禁止外界访问</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>然后通过提供一个公共的接口，=
+让外界来获取我们唯一的对象，这个接口尽可能定义为</s=
+pan><span
+lang=3Den-US>static</span><span lang=3Dzh-CN>类型，保证它不会修改=
+成员变量的同时，还可保证访问都是同一函数</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>最后再定义一个</span><span lang=3De=
+n-US>static</span><span
+lang=3Dzh-CN>类型的对象，保证通过此类访问的都是同一对�=
+�，并且最好这个对象定义为指针类型，这样可以更加显�=
+�在外部初始化这个对象，比直接定义为对象的在形式上�=
+�确很多</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>以上就是创建一个单例模式的基=
+本过程</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式的优点：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、由于单例模式在内存中只有一个实例，减少�=
+�内存开支，特别是一个对象需要频繁地创建、销毁时，�=
+�且创建或销毁时性能又无法优化，单例模式的</span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Den-US> </span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>优势就非常明显<=
+/span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、由于单例模式只生成一个实例，所以减少了�=
+�统的性能开销，当一个对象的产生需要比较多的资源时�=
+�如读取配置、产生其他依赖对象时，则可以通过在应用�=
+�动时直接产生一个单例对象，然后用永久驻留内存的方�=
+�来解决</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、单例模式可以避免对资源的多重占用，例如�=
+�个写文件动作，由于只有一个实例存在内存中，避免对�=
+�一个资源文件的同时写操作</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、单例模式可以在系统设置全局的访问点，优�=
+�和共享资源访问</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式的缺点：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、单例模式一般没有接口，扩展困难，若要扩�=
+�，除了修改代码基本上没有第二种途径可以实现；单例�=
+�式不能增加接口的原因是，接口对单例模式是没有任何�=
+�义的，单例模式要求“自行实例化”，并且提供单一实�=
+�、接口或抽象类是不可能被实例化，当然在特殊情况下�=
+�可以实现接口、被继承等</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、单例模式对测试是</span><span style=3D'font-family:"=
+Microsoft YaHei"'
+lang=3Den-US> </span><span style=3D'font-family:"Microsoft YaHei"' lang=3Dz=
+h-CN>不利的，在并行开发环境中，如果单例模式没有完成�=
+��是不能进行测试的，没有接口也不能虚拟出一个对象进�=
+��测试</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、单例模式与单一职责原则有冲突，一个类应�=
+�只实现一个逻辑，而不关心它是否是单例的，是不是单�=
+�取决于环境，单例模式把“要单例”和业务逻辑融合在�=
+�个类中</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式的使用场景：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、要求生成唯一序号的环境</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、在整个项目中需要一个共享访问点或共享数�=
+�</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、创建一个对象需要消耗的资源过多</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、需要定义大量的静态常量和静态方法的环境�=
+�可以采用单例模式</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式的二种形态：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第一种就是饿汉模式，它的意思=
+是，在创建好一个单例的类后，因为单例模式都会自动生=
+成一个唯一的对象，但这个对象的顺序却可以不同，其实=
+就是我们可以在用户创建一个对象的同时，将这个唯一的=
+对象生成，也就是当用户第一次创建对象时，就生成全局=
+唯一的一个单例，这就饿汉模式，而第二种模式，懒汉模=
+式，则是指在用户第一次生成对象后，先不着急帮他生成=
+全局唯一的单例，而是当用户需要使用这个单例的时候，=
+再帮他创建全局唯一的单例</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>饿汉模式的实现比懒汉模式要简=
+单的多，因为饿汉模式不需要考虑线程安全的问题，因为=
+饿汉模式是当系统启动时就已经创建好了一个单例，就是=
+直接在外部初始化时，就申请了，内存空间，而懒汉模式=
+，则是当用户要使用单例时才创建这个全局唯一的单例，=
+也就是可能会发生，用户创建了多个对象，然后因为都没=
+有使用里面的单例，所以并没有创建全局唯一的单例，而=
+同时都要使用单例时，就都会申请去创建单例，所以这时=
+候我就要加条件进行判断，是否已经创建了单例，这时候=
+就会有同步与互斥的问题，可能当第一个线程刚进入条件=
+时，还没等修改条件，另一个线程就进来了，导致创建单=
+例失败，所以懒汉模式是需要加锁的，其实加锁也只是在=
+判断是否要创建单例的条件处加锁，另外如果还想保证效=
+率的话，那么可以多判断一次条件，也就是外层通过条件=
+，放一些线程进来，然后再加锁，再对条件进行判断，这=
+样就不用即使已经创建了单例，但所有线程依然被强制等=
+待在锁处了，而是直接跳过这个过程</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>但懒汉模式也有它的好处，就是=
+系统启动比较快，因为在系统启动时，它并不需要创建一=
+个单例，而饿汉模式则是当系统启动时就开始创建这个单=
+例了，所以系统启动比较慢，试想一下我们玩游戏，如果=
+要进行入游戏就要等待</span><span
+lang=3Den-US>10</span><span lang=3Dzh-CN>分钟，那么还会想玩吗，�=
+��是以比较快的方式先进行游戏，等要使用哪个模块的时�=
+��再加载比较好，但饿汉模式的优点则是不会有线程安全�=
+��问题</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>单�=
+��模式的扩展：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>单例模式的扩展说的其实是，普=
+通的单例模式只能创建一个对象，因为是单例的嘛，但单=
+例模式的扩展就允许一个类创建多个对象，其实就是原本=
+只能有一个单例，但现在因为需求改变，我们要创建固定=
+的多个单例，当然并不是无限创建对象（那不是和普通类=
+没区别了），我们会创建多个单例，目的不是这些单独有=
+相同的功能，相同的属性，而是每个单例都有不同的属性=
+，这样才更有意义</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>因为现在要产生多个对象，所以=
+实现就比较复杂了，首先我们需要有一个变量来控制可以=
+产生的单例的最大数量，然后需要有二个顺序表或链表，=
+一个用来存储每个对象，单独拥有的属性，另一个用来存=
+储创建的每个单例，最后还需要有一个变量来记录，当前=
+已经创建了多少个单例，在设计其</span><span
+lang=3Den-US>public</span><span lang=3Dzh-CN>获取对象的接口时，可=
+以随机选定一个对象给申请的目标，并且还可以写一个函=
+数，来告诉使用者它所得到的是哪个单例，也就是把获取=
+到的单例的属性给用户显示出来</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>对扩展下的饿汉模式，复杂度其=
+实还不是很高，但懒汉模式，因为涉及到线程安全，所以=
+会比较麻烦</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>&nbs=
+p;</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:14.8541in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.7034=
+in'>
+
+<p style=3D'margin:0in;font-size:10.0pt;color:#767676'><span style=3D'font-=
+family:
+Calibri'>2020</span><span style=3D'font-family:"Microsoft YaHei"'>年</span=
+><span
+style=3D'font-family:Calibri'>6</span><span style=3D'font-family:"Microsoft=
+ YaHei"'>月</span><span
+style=3D'font-family:Calibri'>16</span><span style=3D'font-family:"Microsof=
+t YaHei"'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+10:15</p>
+
+</div>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 cols=3D3 valign=3Dtop sty=
+le=3D'direction:
+ ltr;border-collapse:collapse;border-width:0pt;margin-top:.6118in;margin-le=
+ft:
+ 0in;width:14.8541in'>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:7.6041in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.6451in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:6.6041in;
+  height:1px;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:10.7583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td rowspan=3D2 valign=3Dtop style=3D'vertical-align:top;margin:0in;paddi=
+ng:0pt;
+  width:7.6041in;height:14.5694in'>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�厂模式：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�     
+  </span></span><span lang=3Dzh-CN>工厂模式有一个较为官方的定�=
+��是“</span><span lang=3Den-US>Define
+  an interface for creating an object, but let subclasses decide which clas=
+s to
+  instantiate. Factory method lets a class defer instantiation to subclasse=
+s</span><span
+  lang=3Dzh-CN>”，定义一个用于创建对象的接口，让子类决=
+定实例化哪一个类。工厂方法使一个类的实例化延迟到其=
+子类</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>也就是说，在使用工厂模式时�=
+��要定义一个抽象类负责定义产品的共性，实现对事物最�=
+��象的定义，然后再创建一个抽象工厂类，用于实现各种�=
+��同的工厂，然后具体如何创建产品类和工厂类是由具体�=
+��实现工厂和产品类通过继承，然后发生多态完成的，其�=
+��说白了，工厂模式就是要将你要实现的具体过程全部先�=
+��象出来，因为一个产品可以有多种形态，然后对根据这�=
+��抽象出来的东西，对其进行实现，就可以实现具体的类�=
+��，而这些实现类都可以有不同的功能，在使用时依赖抽�=
+��，而抽象类则是供一个产生最终结果的函数，最终在具�=
+��的工厂类中实现所有的处理过程，其实工厂模式就是封�=
+��了实现过程，它就是用来代替</span><span
+  lang=3Den-US>new</span><span lang=3Dzh-CN>的，原来你要使用一个�=
+��品，就得使用</span><span
+  lang=3Den-US>new</span><span lang=3Dzh-CN>然后进行各种组合，得�=
+��最终的产品，当使用了工厂模式后，所以的实现过程全�=
+��封装在具体的工厂类中，只要</span><span
+  lang=3Den-US>new</span><span lang=3Dzh-CN>具体的工厂类，就可以�=
+��到最终的产品，然后通过多态由抽象工厂类来反应出来�=
+��是对实现过程的一种封装，也是对依赖倒置原则的一个�=
+��好的应用</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�厂模式的使用场景：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>首先工厂方法模式是</span><span =
+lang=3Den-US>new</span><span
+  lang=3Dzh-CN>一个对象的替代器，所以在需要生成对象的地=
+方都可以使用，但是需要慎重地考虑是否要增加一个工厂=
+类管理</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>其次，需要灵活的，可扩展的�=
+��架时，可以考虑采用工厂模式，万物皆对象，那万物也�=
+��品类</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>再者，工厂方法模式可以用在�=
+��构项目中</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>最后，可以使用在测试驱动开�=
+��的框架下</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�厂模式的优点：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、工厂模式有良好的封装性，代码结构清晰，=
+一个对象创建是有条件约束的，如果一个调用者需要一个=
+具体的产品对象，只要知道这个产品的类名就可以了，不=
+用知道创建对象的艰辛过程，降低模块间的耦合</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、工厂模式的扩展性非常优秀，在增加产品类=
+的情况下，只要适当地修改具体的工厂类或扩展一个工厂=
+类，就可以完成变化</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、屏蔽产品类，这一特点非常重要，产品类的=
+实现如何变化，调用者都不需要关心，它只需要关心产品=
+的接口，只要接口保持不变，系统中的上层模式就不用发=
+生变化，因为产品的实例化工作是由工厂类负责的，一个=
+产品对象具体由哪一个产品生成是由工厂类决定的</span></=
+p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、工厂模式是典型的解耦框架，高层模块值需=
+要知道产品的抽象类，其他的实现类都不用关心，符合迪=
+米特法则，我不需要就不去交流，并不比你符合依赖倒置=
+原则，只依赖产品类的抽象，也符合里氏替换原则，使用=
+产品子类替换产品父类</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�厂模式的扩展：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US>1</span><span lang=3Dzh-CN>、缩小=
+为简单工厂模式：考虑这样一个问题，就是一个模块仅需=
+要一个工厂类，没有必要把它产生出来，也就是提供一个=
+全局的唯一的工厂类，所有的对象都可以可以调用这个工=
+厂来产生最终结果，它的好处就是实现简单，所以称为简=
+单工厂模式，也叫静态工厂模式，在实际项目中，采用此=
+方法还是比较多的，其缺点是工厂类的扩展比较困难，不=
+符合开闭原则，但它仍是一个非常实用的设计模式</span></=
+p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、升级为多个工厂类：当我们在做一个比较复=
+杂的项目时，经常侍遇到初始化一个对象很耗费精力的情=
+况，所有的产品都放到一个工厂方法中进行初始化会使代=
+码结构不清晰，例如一个产品有</span><span
+  style=3D'font-family:Calibri' lang=3Den-US>5</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>个具体实现，每个实现类的初始化方法都不相=
+同，如果写在一个工厂方法中，势必会导致该方法巨大无=
+比，所以可以根据抽象工厂，来实现多个不同的具体工厂=
+，也就是写多个实现类，在复杂的应用中一般采用多工厂=
+的方法，然后再增加一个协调类，避免调用者与各个子工=
+厂交流，协调类的作用是封装工厂类，对高层模块提供统=
+一的访问接口</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、替代单例模式：单例模式的核心要求就是在=
+内存中有一个对象，通过工厂方法模式也可以只在内存中=
+生产一个对象，通过获得类构造器，然后设置访问权限，=
+生成一个对象，然后提供外部访问，保证内存中的对象唯=
+一，当然也有其它方法可以建立一个单例，但是一个项目=
+或团队是有章程和规范的，何况已经提供了一个获得单例=
+对象的方法，此框架可以继续扩展，在一个项目中可以产=
+生一个单例构造器，所有需要产生单例的类都遵循一定的=
+规则，然后通过扩展框架，只要输入一个类型就可以获得=
+唯一的一个实例</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、延迟初始化：一个对象被消费完毕后，并不=
+立刻释放，工厂类保持其初始状态，等待再次被使用，也=
+就是将生成的对象存入一个容器中，当用户再次申请这个=
+对象时，如果容器中有这个对象，那么就将这个对象返回=
+给用户，如果容器中没有这个对象，则重新生成一个对象=
+，延迟框架是可以扩展的，例如可以限制某一个产品类的=
+最大实例化数量，延迟加载还可以用在对象初始化比较复=
+杂的情况下，可以通过延迟加载降低对象的产生和销毁带=
+来的复杂性</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'>&nbsp;</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt' lang=3Den-US><span style=3D'mso-spacerun:yes'>    �=
+�  </span></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.6451in;
+  height:10.7583in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:6.6041in;
+  height:10.7583in'>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�象工厂模式：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>抽象工厂模式比较官方的定义�=
+��“</span><span lang=3Den-US>Provide
+  an interface for creating families of related or dependent objects without
+  specifying their concrete classes</span><span lang=3Dzh-CN>”为创建�=
+�组有关或相互依赖的对象提供一个接口，而且无须指定�=
+�们的具体类</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>抽象工厂模式是工厂模式的升�=
+��版本，在有多个业务品种、业务分类时，通过抽象工厂�=
+��式产生需要的对象是一种非常好的解决方式，其实抽象�=
+��厂模式和工厂模式相比就是有了等级的概念，以前工厂�=
+��式在产生具体的工厂时，是按同一等级来制造对象的，�=
+��就是说虽然可能也会产生很多工厂，但是顶多都只是分�=
+��别的工厂，也就是产生不同对象的工厂，而抽象工厂则�=
+��，将一个产品分了等级，不同产品属于同一等级的产品�=
+��可以通过一个工厂来完成，而不同等级的产品必须通过�=
+��同的工厂来完成，当然也不局限于等级的概念，主要是�=
+��不同类的产品，但它们有了同一个约束，处于同一个约�=
+��的产品都可以通过同一个工厂来制造，一般来说，你有�=
+��少个等级，也就是多少个约束，就应该有至少多少个工�=
+��</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>&n=
+bsp;</p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�象工厂模式的优点：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、封装性：每个产品的实现类不是高层模块要=
+关心的，高层模块要关心的是接口，是抽象，它不关心对=
+象是如何创建出来，创建对象的过程，是由工厂类来实现=
+的，只要知道工厂类是谁，抽象出的工厂就能创建一个需=
+要的对象，省时省力</span></p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fa=
+mily:"Microsoft YaHei"'
+  lang=3Dzh-CN>、产品族内的约束为非公开状态：举个例子来=
+说，女娲娘娘造人，在产生男女比例的问题上，猜想女娲=
+娘娘肯定有自己的打算，不能让女盛男衰，否则女性的优=
+点不就体现出来了</span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US> </span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>，那在抽象工�=
+�模式就应该有这样的一个约束，每生产一个女性，就同�=
+�生产</span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Den-US>1.2</span><span
+  style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>个男性这样对�=
+�用工厂类的高层模块来说是透明的，它不需要知道这个�=
+�束，具体产品内的约束是在工厂内实现的</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�象工厂模式的缺点：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+  style=3D'font-family:Calibri' lang=3Den-US><span style=3D'mso-spacerun:ye=
+s'>      
+  </span></span><span style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>=
+抽象工厂模式的最大缺点就是产品族扩展非常困难，因为=
+一但要增加一个产品类，也就是这个工厂要增加一种业务=
+，那么它原来的产品家族就要增加一个，也就是说我抽象=
+工厂首先就得先增加一个抽象方法，然后它的实现类也要=
+增加这个方法，那么我们会发现这个过程严重违反了开闭=
+原则，抽象类或接口就像一个契约，改变契约，所有与契=
+约有关的代码都要修改，这不就有毒的代码吗</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�象工厂模式的使用场景：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>一个对象族，或是一组没有任�=
+��关系的对象都有相同的约束，则可以使用抽象工厂模式�=
+��举个例子来说就是，假设现在要写一个文本编辑器和一�=
+��图片处理器，都是软件实体，但是它们要适配不同的系�=
+��，意思就是说</span><span
+  lang=3Den-US>linux</span><span lang=3Dzh-CN>下的文本编辑器和</spa=
+n><span lang=3Den-US>windows</span><span
+  lang=3Dzh-CN>下的文本编辑器，都有相同的功能，界面也相=
+同，但是代码实现不同，图片处理器也是相同的原因，这=
+时</span><span
+  lang=3Den-US>linux</span><span lang=3Dzh-CN>下的这个文本编辑器�=
+�</span><span lang=3Den-US>windows</span><span
+  lang=3Dzh-CN>下的这个文本编辑器有了相同的约束，就是适=
+配不同的系统，然后我们就可以使用抽象工厂模式了，将=
+它们看成不同的等级，产生不同操作系统下的文本编辑器=
+和图片处理器</span></p>
+  <p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>�=
+�象工厂模式的注意事项：</p>
+  <p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+  font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'> �=
+�    
+  </span></span><span lang=3Dzh-CN>因为抽象工厂模式的产品族扩�=
+��比较困难，但是一定要清楚是产品族扩展困难，而不是�=
+��品等级扩展困难，在此模式下产品等级是非常容易扩展�=
+��，增加一个产品等级，只要增加一个具体的工厂类负责�=
+��增加出来的产品生产任务即可，也就是说横向扩展容易�=
+��纵向扩展困难</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:1px;
+  height:3.8111in;font-size:1pt'>
+  <p style=3D'font-size:1pt'>&nbsp;</p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:.6451in;
+  height:3.8111in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+  <td valign=3Dtop style=3D'vertical-align:top;margin:0in;padding:0pt;width=
+:6.6041in;
+  height:3.8111in;font-size:1pt'>
+  <p style=3D'font-size:1pt'></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:7.6041in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.7034=
+in'>
+
+<p style=3D'margin:0in;font-size:10.0pt;color:#767676'><span style=3D'font-=
+family:
+Calibri'>2020</span><span style=3D'font-family:"Microsoft YaHei"'>年</span=
+><span
+style=3D'font-family:Calibri'>6</span><span style=3D'font-family:"Microsoft=
+ YaHei"'>月</span><span
+style=3D'font-family:Calibri'>18</span><span style=3D'font-family:"Microsof=
+t YaHei"'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:33</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.6118in;margin-left:0in;width:7.6041=
+in'>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>策�=
+��模式：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>策略模式有一个比较官方的定义=
+“</span><span lang=3Den-US>Define a
+family of algorithms, encapsulate each one, and make them interchangeable</=
+span><span
+lang=3Dzh-CN>”，定义一组算法，将每个算法都封装起来，�=
+�用使它们之间可以交换</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>策略模式使用的就是面向对象的=
+继承和多态机制，它有非常重要的三个角色</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第一个是</span><span lang=3Den-US>Cont=
+ext</span><span
+lang=3Dzh-CN>封装角色，它也叫做上下文角色，起承上启下�=
+�装作用，屏蔽高层模块对策略、算法的直接访问，封装�=
+�能存在的变化，实际上我们获取策略就是通过这个类来�=
+�取的，它不是一个抽象类是一个具体类，而且它实现的�=
+�法是定义一个抽象策略类的对象，然后将这个对象私有�=
+�，再通过这个对象来展现出各种策略，也就是通过这个�=
+�象生成所有策略的函数，当我们要使用策略时，只需要�=
+�原本要使用的策略对象通过构造函数传进去，然后再提�=
+�一个通用方法，就可以使用所拥有的策略，传哪个对象�=
+�可以使用哪个策略，想一想如果没有策略模式，用多重</=
+span><span
+lang=3Den-US> if</span><span lang=3Dzh-CN>语句，来实现它，那么就=
+很难维护了，只有一个一个的判断传进去的对象是谁，才=
+能知道调用哪个方法</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第二个是</span><span lang=3Den-US>Stra=
+tegy</span><span
+lang=3Dzh-CN>抽象策略角色：策略算法家族的抽象，通常为�=
+�口，定义每个策略或算法必须具有的方法和属性，这也�=
+�符合依赖倒置原则的，在选择策略时，依赖的是抽象</spa=
+n></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第三个是</span><span lang=3Den-US>Conc=
+reteStrategy</span><span
+lang=3Dzh-CN>具体策略角色，实现抽象策略中的操作，此类�=
+�有具体的算法</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>策�=
+��模式的优点：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、算法可以自由切换：这是策略模式本身定义�=
+�，只要实现抽象策略，它就成为策略家族的一个成员，�=
+�过封装角色对其进行封装，保证对外提供“可自由切换�=
+�的策略</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、避免使用多重条件判断：如果没有策略模式�=
+�一个策略家族有五个策略算法，一会要使用</span><span
+style=3D'font-family:Calibri' lang=3Den-US>A</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>策略，一个要</span><span style=3D'font-family:"Microsoft=
+ YaHei"' lang=3Den-US>
+</span><span style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>使用</s=
+pan><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Den-US>B</span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>策略，只能使用�=
+��重条件语句，但是多重条件语句不易维护，而且出错的�=
+��率大大增强，使用策略模式后，可以由其他模块决定采�=
+��何种策略，策略家族对外提供</span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Den-US> </span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>的访问接口就是�=
+��装类，简化了操作，同时避免了条件语句判断</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、扩展性良好：在现有的系统中增加一个策略�=
+�容易了，只要实现接口就可以了，其他都不用修改</span><=
+/p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>策�=
+��模式的缺点：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、策略数量增多：每一个策略都是一个类，复�=
+�的可能性很小，类数量增多</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、所有策略类都需要对外暴露：上层模块必须�=
+�道有哪些策略，然后才能决定使用哪一个策略，这与迪�=
+�特法则是相违背的，我只是想使用一个策略，凭什么就�=
+�了解这个策略，也就是我们使用者必需知道要使用哪个�=
+�略，然后再调用这个策略</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'>策略模式的使用场景：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>1</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、多个类只有在算法或行为上稍有不同的场景</=
+span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、算法需要自由切换的场景，例如算法的选择�=
+�由使用者决定的，或者算法始终在进化</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、需要屏蔽算法规则的场景</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>策�=
+��模式的注意事项：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>如果系统中的一个策略家族的具=
+体策略数量超过</span><span lang=3Den-US>4</span><span
+lang=3Dzh-CN>个，则需要考虑使用混合模式，解决策略类膨�=
+�和对外暴露的问题</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>策�=
+��模式的扩展：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>策略枚举：就是定义一个枚举类=
+，将原本抽象策略中的抽象方法，现在放在枚举类中，然=
+后再对这个抽象方法进行具体实现，实际上相当把具体的=
+实现类现在放在了枚举里，实际上策略枚举是一个浓缩了=
+的策略模式，并且它也是一个枚举类型（</span><span
+lang=3Den-US>java</span><span lang=3Dzh-CN>中是这样的），实际上�=
+�枚举中实现和直接使用类实现策略枚举是有很大不同的�=
+�如果使用类，那么它的扩展性和可读性都会受到很大限�=
+�，实际上记住策略枚举讲的就是将所有过程，也就是抽�=
+�策略类的定义，具体策略类的定义，封装类的定义，都�=
+�在枚举中完成，用户直接根据枚举得到不同的类，然后�=
+�据类再找到这个类中的方法，就可以得到想要的方法</spa=
+n></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>策略枚举是一个非常方便的模式=
+，但是它受枚举类型的限制，所以扩展性受到了一定的约=
+束，因此在系统开发中</span><span
+lang=3Den-US> </span><span lang=3Dzh-CN>，策略枚举担当不经常发�=
+�变化的角色</span></p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:7.7173in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.7034=
+in'>
+
+<p style=3D'margin:0in;font-size:10.0pt;color:#767676'><span style=3D'font-=
+family:
+Calibri'>2020</span><span style=3D'font-family:"Microsoft YaHei"'>年</span=
+><span
+style=3D'font-family:Calibri'>6</span><span style=3D'font-family:"Microsoft=
+ YaHei"'>月</span><span
+style=3D'font-family:Calibri'>18</span><span style=3D'font-family:"Microsof=
+t YaHei"'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+15:51</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.6118in;margin-left:0in;width:7.7173=
+in'>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>适�=
+��器模式：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>适配器模式有一个比较官方的定=
+义是“</span><span lang=3Den-US>Convert
+the interface of a class into another interface clients expect. Adapter lets
+classes work together that couldn't otherwise because of incompatible
+interfaces</span><span lang=3Dzh-CN>”，将一个类的接口变换成客=
+户端所期待的另一种接口，从而使原本接口不匹配而无法=
+在一起工作的两个类能够在一起工作</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>适配器模式又叫变压器模式，也=
+叫做包装模式，适配器模式是非常常见的，拿实物来说的=
+话就是，像我们的电源适配器，可以使用在</span><span
+lang=3Den-US>110 ~ 220</span><span lang=3Dzh-CN>之间变化的电源，而=
+笔记本还能正常工作，这就是适配器一个很好的表现，适=
+配器模式就是把一个接口或类转换成其他接口或类</span></=
+p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>适配器模式在编程中其实就是利=
+用了继承和多态的性质，适配器类通过继承目标角色，然=
+后它就变成了目标角色的子类，当然也就可以在父类出现=
+的地方出现，而在这个适配器类当中，因为是继承了目标=
+角色，而也是要把源角色转换成目标角色，所以它肯定是=
+要实现父类的函数的，但是这个实现，却是利用源角色实=
+现的，因为它的目的就是为了让源角色中的函数或成员可=
+以在目标角色中使用，所以通过一系列的转换操作，利用=
+源角色中提供的函数和成员，将源角色中的数据提取出来=
+，然后通过一些方法转换成目标角色需要的数据，然后当=
+使用适配器时，通过多态目标角色就可以使用适配器类了=
+，进行调用多态过后虚函数，虽然这个函数外形还是自己=
+一样，但是内部实现是通过源角色来完成的，所以适配器=
+类中一般都要先定义一个源角色的对象，以获取原始数据=
+后进行转换</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>适配器模式有三个非常重要的角=
+色，第一个是</span><span lang=3Den-US>Target</span><span
+lang=3Dzh-CN>目标角色，此角色定义把其他类转换为何种接�=
+�，也就是我们期望的接口</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第二个是</span><span lang=3Den-US>Adap=
+ter</span><span
+lang=3Dzh-CN>源角色，你想把谁转换成目标角色，这个谁就�=
+�源角色，它是已经存在的、运行良好的类或对象，经过�=
+�配器角色的包装，它会成为一个崭新的角色</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>第三个是适配器角色，适配器模=
+式的核心角色，其他两个角色都是已经存在的角色，而适=
+配器角色是需要新建立的，它的职责非常简单，就是把源=
+角色转换为目标角色，转换的方法就是通过继承或是类关=
+联的方式</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>适�=
+��器模式的优点：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US>1</span><span lang=3Dzh-CN>、适配�=
+�模式可以让两个没有任何关系的类在一起运行，只要适�=
+�器这个角色能够搞定他们就行</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>2</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、增加了类的透明性：想想看，我们访问</span><=
+span style=3D'font-family:Calibri'
+lang=3Den-US>T</span><span style=3D'font-family:"Microsoft YaHei"' lang=3De=
+n-US>arget</span><span
+style=3D'font-family:"Microsoft YaHei"' lang=3Dzh-CN>目标角色，但是�=
+��体的实现都委托给了源角色，而这些对高层次模块是透�=
+��的，也是它不需要关心的</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>3</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、提高了类的复用度：源角色在原有的系统中�=
+�是可以正常使用，而在目标角色中也可以充当新的演员</=
+span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-size:11.0pt'><span
+style=3D'font-family:Calibri' lang=3Den-US>4</span><span style=3D'font-fami=
+ly:"Microsoft YaHei"'
+lang=3Dzh-CN>、灵活性非常好：如果什么时候不想用适配器�=
+�，那么就可以直接删除掉这个适配器，其他代码都不用�=
+�改，基本上类似一个灵活的构件，想用就用，不想用就�=
+�除</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>适�=
+��器模式的使用场景：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>就是记住一点，当你有修改一个=
+已经投产中的接口时，适配器模式可能是最适合的模式</s=
+pan></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>适�=
+��器模式的注意事项：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>适配器模式是最好在详细设计阶=
+段不要考虑它，它还是为了解决还处在开发阶段的问题，=
+而是解决正在使用的项目问题，没有一个系统分析师会做=
+详细设计的时候考虑适配器模式，这个模式主要场景是扩=
+展应用</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>还有在开发项目是，项目一定要=
+遵守依赖倒置原则和里氏替换原则，否则即使在适合使用=
+适配器的场合下，也会带来极大的改造</span></p>
+
+<p style=3D'margin:0in;font-family:"Microsoft YaHei";font-size:11.0pt'>适�=
+��器模式的扩展：</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>在</span><span lang=3Den-US>java</span><s=
+pan
+lang=3Dzh-CN>下是不允许多继承的，当然我们</span><span lang=3D=
+en-US>C++</span><span lang=3Dzh-CN>没有这个问题，但也需要知道�=
+��个适配器的扩展，也可以采用，多的不说，直接开始，<=
+/span><span
+lang=3Den-US>java</span><span lang=3Dzh-CN>因为这个问题，所以要�=
+�展一种对象适配器，之前我们使用的一直是类适配器，�=
+�适配器就是类间的转换，目标类和源类因为不是同一个�=
+�型，所以无法融合在一起使用，所以通过类适配器将源�=
+�转换一下，通过适配器就可以在目标类中使用了，这是�=
+�整个类的转换，而对象适配器是指，目标类和对象之间�=
+�关系，也就是不同的类的对象，可以通过同一适配器的�=
+�口来完成多个不同类对象到目标类的数据转换</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Microsoft YaHei";
+font-size:11.0pt'><span lang=3Den-US><span style=3D'mso-spacerun:yes'>  �=
+�   
+</span></span><span lang=3Dzh-CN>而对象适配器就是解决</span><span=
+ lang=3Den-US>java</span><span
+lang=3Dzh-CN>中没有多继承的问题的，不同的类可以生成多�=
+�对象，然后利用适配器的接口传入，然后由适配器进行�=
+�换，这种方式也叫做关联的方式，实际上对象适配器要�=
+�类适配器复杂的多，它得考虑有什么类对象要传进来，�=
+�前定义好接口和成员，等待调用后传入对象，其实对象�=
+�配器可以看作是适配多个类的适配器，因为讲道理只要�=
+�到了对象，就等于拿到了那个类中所有的公共成员，而�=
+�适配器也只是转换了一个类的数据，最多可以通过继承�=
+�换私有成员（</span><span
+lang=3Den-US>java</span><span lang=3Dzh-CN>中没有多继承，所以这�=
+�不好实现），而讲道理一般情况下，都是公开想让你转�=
+�的函数，如果不想让你转换你也必要转换，就是迪米特�=
+�则</span></p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:Arial;font-size:9pt;
+color:#969696;direction:ltr'>已使用 Microsoft OneNote 2016 创建。</p>
+
+</div>
+
+</body>
+
+</html>
